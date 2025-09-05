@@ -1,61 +1,56 @@
-# Analyzing Amazon Sales Data Project
+# Atliq Hospitality Analysis Project
 
-![Screenshot 2024-03-06 165450](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/e41a67fd-d04f-4062-bbfa-4e5891493036)
+
+![Screenshot 2024-03-06 171000](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/ad560d03-5aee-4879-8afb-f38c87c5c9a4)
 
 ## Problem Statement:
-Sales management has gained importance to meer increasing competition and the need for improvement methods of distribution to reduce cost to increase profits. Sales management today is the most important function in a commercial and business enterprices.
+Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality
+industry for the past 20 years. Due to strategic moves from other competitors and ineffective
+decision-making in management, Atliq Grands are losing its market share and revenue in the
+luxury/business hotels category. As a strategic move, the managing director of Atliq Grands
+wanted to incorporate “Business and Data Intelligence” in order to regain their market share
+and revenue.
+
+However, they do not have an in-house data analytics team to provide them with these
+insights. Their revenue management team had decided to hire a 3rd party service provider to
+provide them with insights from their historical data.
 
 ## Project detail below:
-[Click Here](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Project%201_Analyzing%20Amazon%20Sales%20data.pdf)
+[Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Project%209_%20AtliQ%20Hospitality%20Analysis.pdf)
 
-## Table of Contents
+## Table of Content
 
-① Raw Dataset [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20data.csv)
+① Raw Datasets [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/tree/main/Atliq_Hospitality_Analysis_Project/Hospitality_datasets)
 
-② Data Cleaning and Data Preprocessing [link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/SQL_Data_Cleaning_%26_Data_Preprocessing.sql)
+② Datasets Loading, Cleaning and Data Preprocessing [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Datasets%20Loading%2C%20Cleaning%20%26%20Data%20Preprocessing.ipynb)
 
-③ Clean Data [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Clean_Amazon_Sales_data.csv)
+③ Clean Datasets [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/tree/main/Atliq_Hospitality_Analysis_Project/Clean_Hospitality_datasets)
 
-④ Analyzing Amazon Sales Data SQL Queries (Google Docs File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.docx)
+④ Atliq Hospitality Analysis Report [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Atliq%20Hospitality%20Analysis%20Report.pdf)
 
-⑤ Analyzing Amazon Sales Data SQL Queries (PDF File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20SQL%20Queries.pdf)
+# Mock-up Dashboard
 
-⑥ Amazon Sales Data Insights (Google Docs File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.docx)
-
-⑦ Amazon Sales Data Insights (PDF File) [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Amazon%20Sales%20Data%20Insights.pdf)
-
-⑧ Amazon Sales Data Report [Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Analyzing_Amazon_Sales_Project/Analysing%20Amazon%20Sales%20Data%20Report.pdf)
-
-## Mock-up Dashboard
-
-![Screenshot 2024-03-06 170449](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/bab2ff45-2f41-4440-aca2-81a6b40f8170)
+#![Screenshot 2024-03-06 170449](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/d5e2e1ba-56e7-4774-88aa-ebecc8f64dba)
 
 ## Dashboard
 
-![Screenshot 2024-03-13 054440](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/b8a35c3c-f4a4-4dd6-bcbb-9899b3a8e3ef)
+![Screenshot 2024-03-13 054856](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/19d2bfbe-fc29-4dc6-9d55-b34539882f60)
 
-![Screenshot 2024-01-30 201535](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/e6284c07-a006-45e0-a17f-8769c7acc430)
+![Screenshot 2024-01-30 212941](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/6a43d413-d0ae-4ad0-ad52-bf56a3d9f653)
 
-![Screenshot 2024-01-30 201559](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/b745fced-6ef5-448a-b76a-d82aa2cd68b2)
+![Screenshot 2024-01-30 213028](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/0ea2ee1d-4447-44c3-b923-ea5771d2f194)
 
-## Data Model
+## Model View 
+![Screenshot 2024-01-30 232755](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/37b458f4-7ff7-4b4e-a4fb-6bdbe03bac59)
 
-![Screenshot 2024-01-30 230920](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/22d617e4-c9c6-40a3-a0cd-3074bb34ba8d)
+## Atliq Hospitality Analysis Dashboard
+[Link](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/blob/main/Atliq_Hospitality_Analysis_Project/Atliq%20Hospitality%20Analysis%20Dashboard.pbix)
 
-## Insights and Recommendation:
-![Amazon Sales Data Insights_page-0001](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/426355f4-b9e0-4f14-b6eb-c7bbe2e1129b)
+## Technlogies Used :
 
-![Amazon Sales Data Insights_page-0002](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/25181983-b319-4a0a-9275-0714ecd5ffb8)
+① Python
 
-![Amazon Sales Data Insights_page-0003](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/031f8fc0-b0bd-4803-ba53-f91ffbd0d6d4)
-
-![Amazon Sales Data Insights_page-0004](https://github.com/Saquibtechlotraining/Unified-Mentor-Internship-Projects/assets/91885135/caeac660-0681-4443-845d-f1f7a9797b79)
-
-## Technologies Used:
-
-① SQL
-
-② Google Docs
+② Pandas
 
 ③ Power Bi
 
